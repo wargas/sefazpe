@@ -31,24 +31,24 @@ Suficiente: *factual e convincente*
 
 adequada: *propicia a melhor evidência alcançavel*
 
-relevante: ****************************************dá suporte às conclusões e recomendações*
+relevante: __dá suporte às conclusões e recomendações*
 
-útil: *******************************************auxlia a administração a atingir suas metas*******************************************
+útil: __auxlia a administração a atingir suas metas__
 
 </aside>
 
 # Aula 02 - Planejamento de auditoria (NBC TA 300). Documentação de Auditoria (NBC TA 230).
 
 <aside>
-💡 **Atividades preliminares**
+💡 __Atividades preliminares__
 
-1. realizar procedimentos exigidos pela NBC TA 220 ***********************(controle de qualidade)***********************
+1. realizar procedimentos exigidos pela NBC TA 220 __(controle de qualidade)__
 2. avaliação da conformidade com requisitos éticos e independência
 3. estabelecimento de entendimento dos termos de trabalho
 
 ---
 
-**Estratégia global**
+__Estratégia global__
 
 1. identificar as características do trabalho para definir seu alcance
 2. definir os objetivos do trabalho de forma planejar a época da auditoria e a natureza das comunicações requeridas
@@ -58,7 +58,7 @@ relevante: ****************************************dá suporte às conclusões e
 
 ---
 
-**Plano de auditoria**
+__Plano de auditoria__
 
 1. natureza, época e extensão 
     1. dos procedimentos planejados de avaliação de risco
@@ -67,7 +67,7 @@ relevante: ****************************************dá suporte às conclusões e
 </aside>
 
 <aside>
-💡 **Documentação**
+💡 __Documentação__
 
 Deve ser suficiente para permitir que um auditor experiente entenda:
 
@@ -89,12 +89,12 @@ O auditor deve registrar
 # Aula 03 - Procedimentos de auditoria. Testes substantivos e Testes de observância. Evidências de auditoria. (NBC TA 500, 505, 520)
 
 <aside>
-💡 **Circularização externa**
+💡 __Circularização externa__
 
 Tipos de respostas
 
-1. positiva em branco: *****solicitaão de informações sem registro de quantitativos ou valores no texto da requisição e com prazo de resposta*****
-2. positiva em preto: ********************solicitação com indicação dos quantitativos ou valores no texto e com prazo para resposta********************
+1. positiva em branco: __solicitaão de informações sem registro de quantitativos ou valores no texto da requisição e com prazo de resposta__
+2. positiva em preto: __solicitação com indicação dos quantitativos ou valores no texto e com prazo para resposta__
 3. negativa: solicitação com indicação dos quantitativos no texto da comunicação e dispensado a resposta no caso de concordância
 </aside>
 
@@ -117,8 +117,8 @@ $Tamanho\ da\ amostra = \frac{Fator\ de\ confianca}{Taxa\ tolerável\ de\ desvio
 <aside>
 💡 Erro tolerável
 
-1. testes de observância: *********taxa máxima de desvio de um procedimento de controle estabelecido que o auditor estád disposto a aceitar*********
-2. testes substantivos: **********************erro monetário máximo no saldo de uma conta.**********************
+1. testes de observância: __taxa máxima de desvio de um procedimento de controle estabelecido que o auditor estád disposto a aceitar__
+2. testes substantivos: __erro monetário máximo no saldo de uma conta.__
 </aside>
 
 # Aula 05 - Materialidade, relevância e risco. Identificação de Fraudes na Escrita Contábil. (NBC TA 320, 240)
@@ -126,20 +126,20 @@ $Tamanho\ da\ amostra = \frac{Fator\ de\ confianca}{Taxa\ tolerável\ de\ desvio
 <aside>
 💡 Situações excepcionais que podem colocar em dúvida a capaciade de continuar a executar a auditoria
 
-1. entidade não toma a ação apropriada ante uma fraude *****************(mesmo se ela não for relevante)*****************
+1. entidade não toma a ação apropriada ante uma fraude __(mesmo se ela não for relevante)__
 2. risco significativo de fraude relevante e generalizada
 3. preocupação significativa quanto a competência ou integridade da adminsitração
 </aside>
 
 <aside>
-💡 Frause: *************************ocorre quando é intencional, ainda que não haja má-fé*************************
+💡 Frause: __ocorre quando é intencional, ainda que não haja má-fé__
 
 </aside>
 
 # Aula 06 - Relatório de Auditoria (NBC TA 700, 705 e 706)
 
 <aside>
-💡 **************************Abstenção de opinião**************************
+💡 __Abstenção de opinião__
 
 1. o auditor concluir que há dúvida suficiente a respeito da integridade da administração
 2. a administração não fornecer as representações formais exigidas
